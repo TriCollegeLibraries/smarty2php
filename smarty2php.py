@@ -4,7 +4,7 @@ import os.path
 import re
 
 # global vars 
-DEBUG = 1
+DEBUG = 0
 # need to keep track of loopvar between translations, 
 # but translate is used as a callback. so it's global
 INDEX = ''
